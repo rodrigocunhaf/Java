@@ -2,7 +2,8 @@ package conversionchallenge;
 
 import java.util.Scanner;
 
-//Convert 3 wages in String to double and then add them
+//Calculate the average of 3 wages provided in String
+
 public class ConversionChallengeMain {
 	
 	public static void main(String[] args) {
@@ -39,7 +40,7 @@ public class ConversionChallengeMain {
 		
 		
 		//sum: s1,s2,s3 wages 
-		System.out.println(doubles1+doubles2+doubles3);	
+		System.out.println(doubles1+doubles2+doubles3/3);	
 		
 		//Scanner close
 		scan.close();
