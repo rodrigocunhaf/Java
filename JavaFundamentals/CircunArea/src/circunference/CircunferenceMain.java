@@ -2,13 +2,14 @@ package circunference;
 
 import java.util.Scanner;
 
+//Calculates the value of the circumference area
 public class CircunferenceMain {
 	public static void main(String[] args) {
 		
 		//Scanner print
 		System.out.print("Enter the radius value of the circumference:");
 		
-		//Scanner c
+		//Scanner
 	 	Scanner scan  =  new Scanner(System.in);
 	 	
 	 	//Pi value
@@ -20,7 +21,7 @@ public class CircunferenceMain {
 	 	//Answer Print
 	 	System.out.printf("The circumference area is: %.2f ",pi*Math.pow(radius,2));
 	 	
-	 	//Scanner close
+	 	//Scanner Close
 	 	scan.close();
  	}
 }
