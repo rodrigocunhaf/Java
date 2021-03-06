@@ -34,11 +34,11 @@ public class ConversionChallengeMain {
 		//Third Salary String replacing "," with "."
 		String s3 = scan.nextLine().replace(",", ".");
 		
-		//convert s3 to double
+		//Convert s3 to double
 		Double doubles3 = Double.parseDouble(s3);
 		
 		
-		//sum,s1,s2,s3 
+		//sum: s1,s2,s3 wages 
 		System.out.println(doubles1+doubles2+doubles3);	
 		
 		//Scanner close
