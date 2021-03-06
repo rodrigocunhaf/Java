@@ -8,7 +8,7 @@ public class CircunferenceMain {
 		//Scanner print
 		System.out.print("Enter the radius value of the circumference:");
 		
-		//Scanner
+		//Scanner c
 	 	Scanner scan  =  new Scanner(System.in);
 	 	
 	 	//Pi value
