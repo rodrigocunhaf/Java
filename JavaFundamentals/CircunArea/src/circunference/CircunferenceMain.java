@@ -13,13 +13,13 @@ public class CircunferenceMain {
 	 	Scanner scan  =  new Scanner(System.in);
 	 	
 	 	//Pi value
-	 	final double pi = 3.14;
+	 	final double pivalue = Math.PI;
 	 	
 	 	//Radius input
 	 	double radius = scan.nextDouble();
 	 	
 	 	//Answer Print
-	 	System.out.printf("The circumference area is: %.2f ",pi*Math.pow(radius,2));
+	 	System.out.printf("The circumference area is: %.2f ",pivalue*Math.pow(radius,2));
 	 	
 	 	//Scanner Close
 	 	scan.close();
