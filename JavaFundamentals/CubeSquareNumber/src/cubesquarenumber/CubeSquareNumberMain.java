@@ -3,7 +3,6 @@ package cubesquarenumber;
 import java.util.Scanner;
 
 //Calculate cube and square of a number
-
 public class CubeSquareNumberMain {
 	
 	public static void main(String[] args) {
