@@ -1,18 +1,18 @@
-package setcalldate;
+package challengesetcalldate;
 
-public class DateTest {
+public class ChallengeDateTest {
 	
 	public static void main(String[] args) {
 	
 	//Create object #1, class type DateClass
-	DateClass date1 = new DateClass();
+	ChallengeDateClass date1 = new ChallengeDateClass();
 	
 	date1.day = 01;//Set day
 	date1.month = 12;//Set month
 	date1.year = 1997;//Set year
 	
 	//Create object #2, class type DateClass
-	DateClass date2 = new DateClass();
+	ChallengeDateClass date2 = new ChallengeDateClass();
 	
 	date2.day = 02; //Set day
 	date2.month = 03;//Set month

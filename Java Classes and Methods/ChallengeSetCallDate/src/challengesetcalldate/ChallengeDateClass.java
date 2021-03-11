@@ -1,6 +1,6 @@
-package setcalldate;
+package challengesetcalldate;
 
-public class DateClass {
+public class ChallengeDateClass {
 	int day;
 	int month;
 	int year;
