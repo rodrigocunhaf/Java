@@ -1,5 +1,6 @@
 package eatchallenge;
 
+//Eat Challenge
 public class EatMain {
 	
 	public static void main(String[] args) {
