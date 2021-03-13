@@ -31,7 +31,7 @@ public class Moves {
 			target.health-=10;
 		}
 		
-		//Out of range
+		//Out of Range
 		else {
 			System.out.println("OUT OF RANGE.");
 		}
